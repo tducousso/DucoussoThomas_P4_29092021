@@ -790,6 +790,10 @@ h4 {
     color: #333333!important;
 }
 
+section form h2 {
+    font-size: 17px;
+}
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
@@ -862,10 +866,6 @@ h4 {
 
 .ltc-white {
     color: #FFFFFF!important;
-}
-
-.ltc-white:hover {
-    color: #cccccc!important;
 }
 
 .ltc-atomic-tangerine {
